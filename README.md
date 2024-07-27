@@ -37,7 +37,7 @@ Read the docs at https://docs.howlcode.com
 Each such HOWL Generator Package will assist Howl Code to generate the required HTML and 
 some skeletal server code for the routes that HTMX needs. 
 
-There is no real limits on the kind of HOWL Generator Packages that can be written.
+There are no real limits on the kind of HOWL Generator Packages that can be written.
 This system should cater to quite a lot of back-ends. I have written a few. 
 I am sure eventually, the community will provide a lot more HOWL Generator Packages.
 
