@@ -1,0 +1,52 @@
+"HowlCode" License Agreement
+
+1. Definitions
+   "Software" refers to "HowlCode", a donation-based commercial software.
+   "Author" refers to Sabu Francis, resident of Navi Mumbai, India.
+
+2. Usage Rights
+   The Software is free to use. Users who donate $25 USD or more will receive 
+   free updates until December 31, 2025, regardless of future changes 
+   to the Software's commercial status.
+
+3. Restrictions
+   Users are expressly prohibited from:
+   a) Reverse-engineering the Software
+   b) Distributing the Software, whether standalone or bundled with other software/files
+   c) Hosting copies of the Software on servers for download purposes
+   d) Claiming ownership of the Software
+
+4. Permitted Actions
+   Users are permitted to:
+   a) Use HowlCode for your personal or commercial purposes
+   b) Inform others about the Software
+   c) Submit feedback or issues via the official GitHub repository
+
+5. Disclaimer of Warranty
+   The Software is provided "as is", without warranty of any kind, express or implied. 
+   While the Author has made best efforts to ensure the Software is harm-free, users 
+   are advised that improper use may result in file overwriting. 
+   Use of the Software is at the user's own risk.
+
+6. Limitation of Liability
+   In no event shall the Author be liable for any claim, damages, or other liability, 
+   whether in an action of contract, tort, or otherwise, arising from, out of, or in 
+   connection with the Software or the use or other dealings in the Software.
+
+7. Reservation of Rights
+   All rights not expressly granted herein are reserved by the Author.
+
+8. Governing Law
+   This license shall be governed by and construed in accordance with the laws of India.
+
+9. License Updates
+   We reserve the right to update this License Agreement at any time. The updated version 
+   will be posted on the HowlCode website (https://howlcode.com/).  Your continued use of 
+   HowlCode following the posting of an updated License Agreement constitutes your 
+   acceptance of the updated terms. 
+   
+By using the Software, you acknowledge that you have read and understood this Agreement,
+and agree to be bound by its terms and conditions.
+
+-Sabu Francis 
+sabu@limenleap.com 

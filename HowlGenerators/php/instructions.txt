@@ -1,0 +1,34 @@
+This PHP output is based on https://phprouter.com/any-route 
+Our HowlCode Generator would create a file called index.html based on your definitions.
+It will also generate a file called routes.php 
+
+====IMPORTANT====
+
+Make sure you write your own code only in the file that header.tmpl will "include_once" and NOT 
+inside routes.php; as that would get over-written whenever you re-run HowlCode.
+
+If you are using Apache, you MUST create a .htaccess file in the root folder of your site.
+You can  download .htaccess from  https://github.com/phprouter/main/blob/main/.htaccess 
+But please note that the author of that .htaccess seems to have forgotten about .html 
+extension and as per their system, even .html would get sent thru their router system.
+That would not work here; so please add .html extension also into the excluded extensions.
+
+
+If you are using Nginx, you would need to set the Nginx configuration. Here is an untested sample:
+
+===Fragment Start===
+
+location / {
+    if ($request_filename ~* \.(png|jpg|webp|gif|jpeg|zip|css|svg|js|pdf|html)$) {
+        break;
+    }
+
+    try_files $uri /routes.php$is_args$args;
+
+  #... other Nginx config 
+  
+}
+
+===Fragment End=== 
+
+NOTE: There would be other instructions in the Nginx configuration as per your needs.
