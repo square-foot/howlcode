@@ -5,7 +5,7 @@ Please consider a donation: https://paypal.me/sabufrancis
 
 Last Update: 27th July 2024
 Read this README file fully, please!
-Docs: https://docs.howlcode.com
+Website: https://howlcode.com Docs: https://docs.howlcode.com
 
 What is it?
 ===========
