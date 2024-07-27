@@ -7,6 +7,8 @@ Last Update: 27th July 2024
 Read this README file fully, please!
 Website: https://howlcode.com Docs: https://docs.howlcode.com
 
+The official repository is here https://github.com/square-foot/howlcode
+
 What is it?
 ===========
 HOWL = Hypermedia on Whatever You'd Like 
