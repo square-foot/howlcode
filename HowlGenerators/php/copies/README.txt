@@ -1,2 +1,2 @@
-This code is originally here:
+This original code is here:
 https://github.com/phprouter
