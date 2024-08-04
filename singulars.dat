@@ -1,0 +1,4 @@
+alone("readonly")
+alone("x-cloak")
+alone("hx-disable")
+alone("required")
