@@ -1,10 +1,15 @@
 # howlcode
 A simple command-line driven HTML+HTMX+AlpineJS Generator for various backends
+Version 0.8
 
 Please consider a donation: https://paypal.me/sabufrancis
 
-Last Update: 27th July 2024
+Started: 27th July 2024
+Last Update: Aug 5, 2024
+
 Read this README file fully, please!
+====================================
+
 Website: https://howlcode.com Docs: https://docs.howlcode.com
 
 The official repository is here https://github.com/square-foot/howlcode
