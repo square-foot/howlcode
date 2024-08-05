@@ -1,8 +1,11 @@
 prefixes("hx-","x-")
-%This is a comment. Only the first line is important.
-%Give the prefixes you want to use for the 2nd and 3rd attribute 
-%lists in the definitions file. 
-%Usually you would also need to possibly edit 
-%singulars.dat file too if these prefixes change
+
+The following lines are comments. Only the first line is used.
+This is for attaching prefixes for the 2nd and 3rd attribute lists. 
+
+Give the prefixes you want to use for the 2nd and 3rd attribute 
+lists in the definitions file, as seen in above example. 
+Usually you would also need to edit singulars.dat file too, 
+if you change these prefixes!
 
 
