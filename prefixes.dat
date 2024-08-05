@@ -1,0 +1,8 @@
+prefixes("hx-","x-")
+%This is a comment. Only the first line is important.
+%Give the prefixes you want to use for the 2nd and 3rd attribute 
+%lists in the definitions file. 
+%Usually you would also need to possibly edit 
+%singulars.dat file too if these prefixes change
+
+
